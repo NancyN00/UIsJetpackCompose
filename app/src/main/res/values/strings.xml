@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIPractice</string>
+    <string name="log_in">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in_with_your_account">Log in with your account</string>
+    <string name="log_in_with">Log in with</string>
+    <string name="f_facebook">f  Facebook</string>
+    <string name="g_google">G+ Google</string>
+
+
+</resources>
