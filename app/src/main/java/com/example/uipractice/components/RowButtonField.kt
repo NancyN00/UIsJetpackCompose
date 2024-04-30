@@ -1,5 +1,6 @@
 package com.example.uipractice.components
 
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Button
@@ -16,7 +17,8 @@ fun RowButtonField(
 ){
     
     Button(onClick = onClick,
-        modifier = modifier.height(40.dp),
+        modifier = modifier.height(40.dp)
+            .fillMaxWidth(),
         shape = RoundedCornerShape(8.dp)
     )
     {
